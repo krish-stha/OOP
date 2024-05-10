@@ -13,7 +13,7 @@ public class Task1{
 
         System.out.print (not println) and produces the same output. */
 
-        System.out.print("This is my first program\n");
+        System.out.print("This is my first program\n" );
         System.out.print("I am on module ST4003CEM\n");
 
         /*3. Write a program that prints the following output:
