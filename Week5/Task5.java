@@ -36,7 +36,7 @@ public class Task5 {
 
     void table(int numb){
         for(int i=1;i<=10;i++){
-            System.out.printf("%d * %d = %d \n",numb,i,numb*i);
+            System.out.printf("%d * %d = %d \n",numb,i,numb*i );
         }
 
     }
