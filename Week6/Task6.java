@@ -106,7 +106,6 @@ public class Task6 {
     
     
 }
-
 // ArrayList
 
 // 1. Write code that creates an ArrayList that can hold string objects. Add the names of three cars to the ArrayList, and then display the contents of the ArrayList.
